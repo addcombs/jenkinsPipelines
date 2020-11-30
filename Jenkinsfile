@@ -10,7 +10,7 @@ pipeline {
                     doGenerateSubmoduleConfigurations: false, 
                     extensions: [], 
                     submoduleCfg: [], 
-                    userRemoteConfigs: [[url: 'https://github.com/addcombs/Android.git']]
+                    userRemoteConfigs: [[url: 'https://github.com/addcombs/naviDrawer.git']]
                 ])
             }
         }
